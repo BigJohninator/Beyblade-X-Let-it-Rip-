@@ -1,0 +1,3 @@
+displayName = Let it Rip! (Beyblade X)(BETA)
+author = HydrochloricActd
+version = 0.1

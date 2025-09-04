@@ -1,0 +1,219 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	Beysword: {
+		DisplayName: Beysword
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	TemplateBey: {
+		DisplayName: Template Bey
+		Tooltip: A blueprint for all the beys I will make
+	}
+
+	DranSword: {
+		DisplayName: Dran Sword
+		Tooltip: An offensive option for dealing more damage to enemies, useful for clearing out powerful enemies
+	}
+
+	KnightShield: {
+		DisplayName: Knight Shield
+		Tooltip: A defensive option meant more for keeping enemies at bay, useful to stop enemies from hitting you
+	}
+
+	WizardArrow: {
+		DisplayName: Wizard Arrow
+		Tooltip: An enduring option meant to last longer against more enemies, Great for exploring caves as well as consistent damage
+	}
+
+	HellScythe: {
+		DisplayName: Hell Scythe
+		Tooltip: A Balanced option that has the traits from all three types, but dosen't excel in any of them
+	}
+
+	BeyCore: {
+		DisplayName: Bey Core
+		Tooltip: Required for making the most basic Beys
+	}
+
+	CobaltDrake: {
+		DisplayName: Cobalt Drake
+		Tooltip: A basic bey created as a homage to an old legend
+	}
+
+	BeyGetCore: {
+		DisplayName: Bey Get Core
+		Tooltip: Why is this thing so annoying to get?
+	}
+
+	EnhancedBeyCore: {
+		DisplayName: Enhanced Bey Core
+		Tooltip: An upgraded Bey core to be used for more powerful Beys
+	}
+
+	KnightLance: {
+		DisplayName: Knight Lance
+		Tooltip: A second bey in the Knight lineup, meant for great counterattack
+	}
+
+	SharkEdge: {
+		DisplayName: Shark Edge
+		Tooltip: A fast attacker that aims to get that perfect strike on it's opponents
+	}
+
+	DranDagger: {
+		DisplayName: Dran Dagger
+		Tooltip: Another Bey in the Dran lineup, meant to barrage opponents
+	}
+
+	HellsChain: {
+		DisplayName: Hells Chain
+		Tooltip: Another Bey in the Hells lineup, meant to be reliable against many things
+	}
+
+	LeonClaw: {
+		DisplayName: Leon Claw
+		Tooltip: I mean it's alright
+	}
+
+	WyvernGale: {
+		DisplayName: Wyvern Gale
+		Tooltip: A bey that aims to be enduring and somewhat offensive
+	}
+
+	PhoenixFeather: {
+		DisplayName: Phoenix Feather
+		Tooltip: A light and Agile Bey that scorches opponents
+	}
+
+	UniqueBeyCore: {
+		DisplayName: Unique Bey Core
+		Tooltip: A special Bey core meant for exceptional Beys
+	}
+
+	ShinobiKnife: {
+		DisplayName: Shinobi Knife
+		Tooltip: It's really fast
+	}
+
+	ShelterDrake: {
+		DisplayName: Shelter Drake
+		Tooltip: Lightweight, but has a lot of potential
+	}
+
+	HellsHammer: {
+		DisplayName: Hells Hammer
+		Tooltip: A unique Bey in the Hells lineup that is meant to slam opponents like a hammer.
+	}
+
+	GhostCircle: {
+		DisplayName: Ghost Circle
+		Tooltip: A Unique Bey that resists losing it's spin no matter what
+	}
+
+	UnicornSting: {
+		DisplayName: Unicorn Sting
+		Tooltip: "A Bey That can be Good Offensively while still Having stamina "
+	}
+
+	OneSidedRatchet: {
+		DisplayName: One Sided Ratchet
+		Tooltip: 15% increased damage 50% increased knockback 25% increased attack speed A special Ratchet designed for the most offensive Beyblades
+	}
+
+	LowHeightRatchet: {
+		DisplayName: Low Height Ratchet
+		Tooltip: A lower height ratchet for critical hits
+	}
+
+	SamuraiSaber: {
+		DisplayName: Samurai Saber
+		Tooltip: A unique bey with many levels of acceleration and strong hits
+	}
+
+	AeroPegasus: {
+		DisplayName: Aero Pegasus
+		Tooltip: A unique bey created as a homage to an old legend, now soaring from the skies
+	}
+
+	PhoenixWing: {
+		DisplayName: Phoenix Wing
+		Tooltip: A simple bey, yet one of the most effective despite it
+	}
+
+	DranBrave: {
+		DisplayName: Dran Brave
+		Tooltip: A custom Bey in the Dran lineup, now able to home in on enemies quickly
+	}
+
+	CustomBeyCore: {
+		DisplayName: Custom Bey Core
+		Tooltip: A Bey Core designed to help create the Custom line Beys
+	}
+
+	HellsReaper: {
+		DisplayName: Hells Reaper
+		Tooltip: A custom Bey in the Hells lineup, now able to home in at moderate speed
+	}
+
+	WizardArc: {
+		DisplayName: Wizard Arc
+		Tooltip: A custom Bey in the Wizard lineup, meant to home in on enemies
+	}
+
+	FoxBrush: {
+		DisplayName: Fox Brush
+		Tooltip: A custom Bey that's designed to barrage and overwhelm opponents
+	}
+
+	TyrannoBeat: {
+		DisplayName: Tyranno Beat
+		Tooltip: A Bey with excellent stopping force, but it may not always hit it's mark
+	}
+
+	PegasusBlast: {
+		DisplayName: Pegasus Blast
+		Tooltip: A custom bey in the Pegasus lineup, coming from the sky to smite enemies
+	}
+
+	SharkScale: {
+		DisplayName: Shark Scale
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	TemplateBeyProjectile.DisplayName: Template Bey Projectile
+	DranSwordProjectile.DisplayName: Dran Sword Projectile
+	KnightShieldProjectile.DisplayName: Knight Shield Projectile
+	WizardArrowProjectile.DisplayName: Wizard Arrow Projectile
+	HellScytheProjectile.DisplayName: Hell Scythe Projectile
+	CobaltDrakeProjectile.DisplayName: Cobalt Drake Projectile
+	KnightLanceProjectile.DisplayName: Knight Lance Projectile
+	SharkEdgeProjectile.DisplayName: Shark Edge Projectile
+	DranDaggerProjectile.DisplayName: Dran Dagger Projectile
+	HellsChainProjectile.DisplayName: Hells Chain Projectile
+	LeonClawProjectile.DisplayName: Leon Claw Projectile
+	WyvernGaleProjectile.DisplayName: Wyvern Gale Projectile
+	PhoenixFeatherProjectile.DisplayName: Phoenix Feather Projectile
+	ShinobiKnifeProjectile.DisplayName: Shinobi Knife Projectile
+	ShelterDrakeProjectile.DisplayName: Shelter Drake Projectile
+	HellsHammerProjectile.DisplayName: Hells Hammer Projectile
+	GhostCircleProjectile.DisplayName: Ghost Circle Projectile
+	UnicornStingProjectile.DisplayName: Unicorn Sting Projectile
+	SamuraiSaberProjectile.DisplayName: Samurai Saber Projectile
+	AeroPegasusProjectile.DisplayName: Aero Pegasus Projectile
+	PhoenixWingProjectile.DisplayName: Phoenix Wing Projectile
+	DranBraveProjectile.DisplayName: Dran Brave Projectile
+	HellsReaperProjectile.DisplayName: Hells Reaper Projectile
+	WizardArcProjectile.DisplayName: Wizard Arc Projectile
+	FoxBrushProjectile.DisplayName: Fox Brush Projectile
+	TyrannoBeatProjectile.DisplayName: Tyranno Beat Projectile
+	PegasusBlastProjectile.DisplayName: Pegasus Blast Projectile
+	SharkScaleProjectile.DisplayName: Shark Scale Projectile
+}
